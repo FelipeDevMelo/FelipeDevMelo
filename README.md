@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate frontend developer</h3>
-![OIG2](https://github.com/FelipeDevMelo/FelipeDevMelo/assets/73553939/4b363c0f-c37f-4572-b274-f6dfdf9cdc7c)
+![OIG2](https://github.com/FelipeDevMelo/FelipeDevMelo/assets/73553939/2a4e6825-2f94-4c4e-ae8a-be1e815567c8)
+
 
 - 🌱 I’m currently learning **TypeScript, react and UI/UX design**
 
